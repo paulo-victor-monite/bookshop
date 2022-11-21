@@ -6,9 +6,9 @@
 </head>
 
 <body>
-<h1>my-first-website</h1>
+<h1>Bookshop</h1>
 <!-- Change this code here by copy and pasting your template on line 15 -->
-<p>Welcome to your first GitHub Pages website!</p>
+<p>Welcome to your Bookshop!</p>
 
 </body>
 </html>
